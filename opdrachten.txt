@@ -1,0 +1,12 @@
+Opdracht 1:
+http://inter1.han.nl/insite/schoolplan/heao-nijmegen/rooster.org.asp
+
+Zorg ervoor dat je een tussenlaag maakt vanuit dit rooster (dus met PHP naar bijv. XML of MySQL exporteren).
+
+Opdracht 2:
+Daarna:
+zie word document:
+
+studenten kunnen op zo'n formulier inschrijven
+vanuit het rooster blokkeer je momenten
+
