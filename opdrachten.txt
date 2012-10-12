@@ -10,3 +10,6 @@ zie word document:
 studenten kunnen op zo'n formulier inschrijven
 vanuit het rooster blokkeer je momenten
 
+
+Hulpsites:
+http://www.nashruddin.com/fetching-a-web-page-from-php-code.html
