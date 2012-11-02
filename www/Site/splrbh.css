@@ -1,0 +1,113 @@
+/* basis pagina opmaak */
+body
+{
+	font-family		: Verdana, Arial;
+	font-size			: 10pt;
+	text-align		: center;
+	margin				: 10px;
+	color					: black;
+}
+
+/*	breedte van de pagina 
+		bijv. 100% voor volle breedte
+		of 800px voor een minimum van 800 pixels
+*/
+table.positioning
+{
+	width: 100%;
+}
+
+/* opmaak van titel */
+.title
+{
+	font-family		: Verdana, Arial;
+	font-size			: 24pt;
+	text-align		: left;
+	color					: dimgray;
+}
+
+/* opmaak van subtitel */
+.subtitle
+{
+	font-family			: Verdana, Arial;
+	font-size				: 14pt;
+	text-align			: left;
+	color						: dimgray;
+}
+
+/* opmaak van label voor week, docent, groep en lokaal listbox*/
+.label
+{
+	font-size				: 10pt;
+	text-align			: right;
+	text-transform	: capitalize;
+	color						: black;
+}
+
+table.data
+{
+	background-color: peachpuff;
+}
+
+/* data kolom heading */
+th.datahead
+{
+	font-size				: 10pt;
+	font-weight			: 700;
+	text-transform	: capitalize;
+	white-space			: nowrap;
+	color						: dimgray;
+	background			: papayawhip;
+	padding-top			: 5px;
+	padding-bottom	: 5px;
+	padding-left		: 5px;
+	padding-right		: 5px;
+}
+
+/* data kolom */
+td.data
+{
+	font-size				: 10pt;
+	vertical-align	: top;
+	padding-top			: 5px;
+	padding-bottom	: 5px;
+	padding-left		: 5px;
+	padding-right		: 5px;
+}
+
+/* alternerende rijeigenschappen */
+.altrow
+{
+	background: ivory;
+}
+
+.row
+{
+	background: cornsilk;
+}
+
+/* opmaak voor nieuwe lessen */
+.new
+{
+	color: blue;
+}
+
+/* opmaak voor gewijzigde lessen */
+.updated
+{
+	color: blue;	
+}
+
+/* opmaak voor verwijderde lessen */
+.deleted
+{
+	color: blue;
+	text-decoration: line-through;
+}
+
+/* opmaak voor nadruk in mededelingen */
+.emphasis
+{
+	color: blue;	
+}
+
